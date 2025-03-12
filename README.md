@@ -1,8 +1,8 @@
-#Weather Forecast App
+# Weather Forecast App
 
 This is a simple weather forecast application built using Vue.js and the OpenWeatherMap API. It allows users to select a city and view a detailed weather forecast for the upcoming hours.
 
-##Features
+## Features
 
 Fetches weather data from OpenWeatherMap API
 
@@ -12,7 +12,7 @@ User-friendly UI with city selection dropdown
 
 Responsive design
 
-##Technologies Used
+## Technologies Used
 
 Vue.js - Frontend framework
 
